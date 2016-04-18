@@ -3,9 +3,6 @@ size(640, 640);
 background(255);
 strokeWeight(1);
 stroke(64, 64, 64);
-
-
-
 }
 
 void draw(){
@@ -36,11 +33,6 @@ for(int i = 0 ; i < 640; i+=64)
   }
 }
 
-
-
- //fill(155, 0, 0);
-// rect(60, 60, 40, 40);
-//rect(120, 40, 20, 20);
  
 }
 
